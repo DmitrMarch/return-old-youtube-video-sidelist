@@ -11,8 +11,7 @@
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)**
     - **Firefox: 
 [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)**
-
-    > [!WARNING]
-    > Если вы пользуетесь **Tampermonkey версии 5.3+**, не забудьте **[дать "Разрешение на выполнение userscript-ов"](https://www.tampermonkey.net/faq.php#Q209)!**
-
 2. **[«Установить userscript в Tampermonkey»](https://raw.githubusercontent.com/DmitrMarch/return-old-youtube-video-sidelist/refs/heads/main/roytvs.user.js)**
+
+> [!WARNING]
+> Если вы пользуетесь **Tampermonkey версии 5.3+**, не забудьте **[дать "Разрешение на выполнение userscript-ов"](https://www.tampermonkey.net/faq.php#Q209)!**

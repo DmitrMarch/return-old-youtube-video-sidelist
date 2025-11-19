@@ -7,6 +7,7 @@
 // @match        https://www.youtube.com/*
 // @icon         https://www.youtube.com/s/desktop/9c0f82da/img/favicon.ico
 // @grant        none
+// @license      https://github.com/DmitrMarch/return-old-youtube-video-sidelist/blob/main/LICENSE
 // ==/UserScript==
 
 (() => {

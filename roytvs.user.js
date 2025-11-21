@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name           (ROYTVS) Return old YouTube video sidelist
+// @name:en           (ROYTVS) Return old YouTube video sidelist
 // @name:ru        (ROYTVS) Вернуть старый боковой список видео YouTube
 // @namespace      https://github.com/DmitrMarch/return-old-youtube-video-sidelist
 // @version        0.3
-// @description    A simple userscript to bring back the old YouTube video sidelist design
+// @description:en    A simple userscript to bring back the old YouTube video sidelist design
 // @description:ru Простой userscript для возвращения старого дизайна бокового списка с видео на YouTube
 // @author         DmitrMarch
 // @match          https://www.youtube.com/*

@@ -1,13 +1,16 @@
 // ==UserScript==
-// @name         (ROYTVS) Return old YouTube video sidelist
-// @namespace    https://github.com/DmitrMarch/return-old-youtube-video-sidelist
-// @version      0.3
-// @description  Простой userscript для возвращения старого дизайна боковой панели с видео на YouTube
-// @author       DmitrMarch
-// @match        https://www.youtube.com/*
-// @icon         https://www.youtube.com/s/desktop/9c0f82da/img/favicon.ico
-// @grant        none
-// @license      https://github.com/DmitrMarch/return-old-youtube-video-sidelist/blob/main/LICENSE
+// @name           (ROYTVS) Return old YouTube video sidelist
+// @namespace      https://github.com/DmitrMarch/return-old-youtube-video-sidelist
+// @version        0.3
+// @description    A simple userscript to bring back the old YouTube video sidelist design
+// @description:ru Простой userscript для возвращения старого дизайна бокового списка с видео на YouTube
+// @author         DmitrMarch
+// @match          https://www.youtube.com/*
+// @icon           https://www.youtube.com/s/desktop/9c0f82da/img/favicon.ico
+// @grant          none
+// @license        https://github.com/DmitrMarch/return-old-youtube-video-sidelist/blob/main/LICENSE
+// @updateURL      https://raw.githubusercontent.com/DmitrMarch/return-old-youtube-video-sidelist/refs/heads/main/roytvs.user.js
+// @downloadURL    https://raw.githubusercontent.com/DmitrMarch/return-old-youtube-video-sidelist/refs/heads/main/roytvs.user.js
 // ==/UserScript==
 
 (() => {

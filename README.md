@@ -3,7 +3,7 @@
 [![License GPL v3](https://upload.wikimedia.org/wikipedia/commons/8/86/GPL_v3_Blue_Badge.svg)](./LICENSE)
 
 ## Обзор
-Это простой **userscript** для возвращения старого дизайна боковой панели с видео на **YouTube**
+Это простой **userscript** для возвращения старого дизайна бокового списка с видео на **YouTube**
 
 ## Установка скрипта
 1. Скрипт можно установить с помощью популярного расширения **Tampermonkey**:
